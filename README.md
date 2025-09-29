@@ -90,7 +90,7 @@ Deploy your project and confirm that:
 * Evidence of following best practices
 
 # 🎓 Patience Lagat – Personal Portfolio Website
-Deployed Link: lagatportfolio.netlify.app
+Deployed Link: [lagatportfolio.netlify.app](https://lagatportfolio.netlify.app/)
 
 ## 📌 Project Overview
 
