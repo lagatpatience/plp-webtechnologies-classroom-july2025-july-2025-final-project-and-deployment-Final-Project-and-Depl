@@ -88,3 +88,53 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+# 🎓 Patience Lagat – Personal Portfolio Website
+
+## 📌 Project Overview
+
+This is a personal, multipage **portfolio website** designed, developed, and deployed as part of a web development assignment. The website showcases my skills, education, experience, and includes a contact form for inquiries.
+
+---
+
+## 🧑 About Me
+
+- **Name:** Patience Lagat  
+- **Degree:** Bachelor of Science in Computer Science  
+- **Email:** lagatpatience17@gmail.com  
+- **Phone:** +254 (0)712 108640
+
+---
+
+---
+
+## 🖼️ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Three main pages:
+  - **Home:** Introduction and call to action
+  - **Resume/About:** Full CV and experience details
+  - **Contact:** Form with JavaScript validation
+- Styled with custom CSS
+- JavaScript used for form validation
+- Clean, semantic HTML5 structure
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology  | Purpose                     |
+|-------------|-----------------------------|
+| HTML5       | Page structure              |
+| CSS3        | Styling and responsiveness  |
+| JavaScript  | Form validation, interactivity |
+| Netlify     | Deployment                  |
+
+---Submission Checklist
+| Task                                  | Completed |
+| ------------------------------------- | --------- |
+| ✅ Designed with HTML/CSS              | ✔️        |
+| ✅ Added interactivity with JS         | ✔️        |
+| ✅ Mobile responsive                   | ✔️        |
+| ✅ Deployed on Netlify                 | ✔️        |
+| ✅ Submitted all files + documentation | ✔️        |
